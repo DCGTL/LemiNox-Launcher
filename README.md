@@ -1,2 +1,2 @@
-# KLauncher
-KLauncher For Minecraft
+# LemiNox Launcher
+LemiNox Launcher For Minecraft
